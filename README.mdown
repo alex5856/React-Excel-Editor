@@ -2,10 +2,12 @@ ReactJS - Excel-Editor Example
 ============================
 ReactJS & Excel 線上編輯 匯入/匯出 實作範例
 
-### 項目
-+ [ Demo ](https://alex5856.github.io/react-excel-editor/)
-+ ![預覽畫面一](https://alex5856.github.io/React-Excel-Editor/pic01.jpg "預覽畫面一")
-+ ![預覽畫面二](https://alex5856.github.io/React-Excel-Editor/pic02.jpg "預覽畫面二")
+### Demo
++ [ Demo](https://alex5856.github.io/React-Excel-Editor/)
+
+### 預覽畫面
+![預覽畫面一](https://alex5856.github.io/React-Excel-Editor/pic01.jpg "預覽畫面一")
+![預覽畫面二](https://alex5856.github.io/React-Excel-Editor/pic02.jpg "預覽畫面二")
 
 
 ### 參考資料
